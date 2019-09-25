@@ -1,0 +1,24 @@
+body {
+    background: black;
+    padding: 5%;
+  }
+  
+  #map {
+    height: 30rem;
+    width: 100%;
+    margin-top: 1%;
+  }
+  
+  h1 {
+    text-align: center;
+    color: white;
+  }
+  
+  span {
+    color: white;
+  }
+  
+  p {
+    color: #eece1a;
+  }
+  
